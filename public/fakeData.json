@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Modern Office Tower in Financial District",
+    "segment_name": "Office buildings",
+    "description": "Located in City's Financial District, this modern office tower offers 20,000 sq ft of premium workspace with panoramic views. Features include conference rooms, a parking garage, and 24/7 security. Ideal for businesses seeking a prestigious address and top-notch facilities.",
+    "price": "$10,000,000",
+    "status": "sale",
+    "area": "20,000 sq ft",
+    "location": "Financial District, City",
+    "facilities": ["conference rooms", "parking garage"],
+    "image": "https://i.ibb.co/hL0DcSQ/singapore-skyline.jpg",
+    "view_property_button": "View Property"
+  },
+  {
+    "id": 2,
+    "estate_title": "High-Traffic Retail Space in Shopping Mall",
+    "segment_name": "Retail spaces",
+    "description": "Situated in City Y's bustling shopping mall, this high-traffic retail space spans 8000 sq ft. Boasting storefront windows, storage, and restrooms, it's perfect for retailers aiming to maximize visibility and foot traffic.",
+    "price": "$2,500,000",
+    "status": "rent",
+    "area": "8000 sq ft",
+    "location": "Shopping Mall, City Y",
+    "facilities": ["storefront windows", "storage area", "restrooms"],
+    "image": "https://i.ibb.co/nLLLL56/shopping-mall.png",
+    "view_property_button": "View Property"
+  },
+  {
+    "id": 3,
+    "estate_title": "Spacious Warehouse with Loading Docks",
+    "segment_name": "Warehouses",
+    "description": "This expansive warehouse in City Z offers 30,000 sq ft of storage space with loading docks and office space. Ideal for businesses requiring efficient logistics and ample storage solutions.",
+    "price": "$3,000,000",
+    "status": "sale",
+    "area": "30,000 sq ft",
+    "location": "Industrial Zone, City Z",
+    "facilities": ["loading docks", "office space", "storage racks"],
+    "image": "https://i.ibb.co/Gp65pYF/close-up-warehouse-view.jpg",
+    "view_property_button": "View Property"
+  },
+  {
+    "id": 4,
+    "estate_title": "Industrial Manufacturing Facility with Production",
+    "segment_name": "Industrial facilities",
+    "description": "This state-of-the-art manufacturing facility in City Y spans 50,000 sq ft and features modern machinery and ample warehouse space. Perfect for diverse industrial operations seeking efficiency and innovation.",
+    "price": "$7,500,000",
+    "status": "sale",
+    "area": "50,000 sq ft",
+    "location": "Industrial Park, City Y",
+    "facilities": ["production lines", "warehouse space", "office area"],
+    "image": "https://i.ibb.co/74hVpyj/body-car-conveyor-modern-assembly-cars-plant-automated-build-process-car-body.jpg",
+    "view_property_button": "View Property"
+  },
+  {
+    "id": 5,
+    "estate_title": "Upscale Restaurant with Outdoor Dining Area",
+    "segment_name": "Restaurants",
+    "description": "Located in City X's vibrant center, this upscale restaurant offers 5000 sq ft of elegant dining space, including a spacious outdoor area. Perfect for culinary entrepreneurs aiming to create a memorable dining experience.",
+    "price": "$1,500,000",
+    "status": "sale",
+    "area": "5000 sq ft",
+    "location": "City Center, City X",
+    "facilities": ["commercial kitchen", "bar area"],
+    "image": "https://i.ibb.co/c6tZ4c2/sitting-table-with-chairs-yellow-sofa-restaurant-with-panoramic-view.jpg",
+    "view_property_button": "View Property"
+  },
+  {
+    "id": 6,
+    "estate_title": "Entertainment Venue with Event Spaces",
+    "segment_name": "Entertainment venues",
+    "description": "Positioned in City Z's lively Entertainment District, this dynamic venue offers 15,000 sq ft of versatile event spaces with stage areas and well-equipped bars. Perfect for hosting memorable events and celebrations.",
+    "price": "$4,000,000",
+    "status": "sale",
+    "area": "15,000 sq ft",
+    "location": "Entertainment District, City Z",
+    "facilities": ["stage area", "bar facilities", "seating arrangements"],
+    "image": "https://i.ibb.co/6DPYd08/restaurant-hall-with-turquoise-chairs-french-windows-navy-coloured-ceiling.jpg",
+    "view_property_button": "View Property"
+  }
+]
